@@ -2,7 +2,7 @@
 title: "StenPaffenSite"
 ---
 
-Welkom op mijn site. Het gaat niet zo makkelijk allemaal deze zooi!
+Welkom op mijn site. Het gaat niet zo makkelijk allemaal deze rotzooi!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
