@@ -1,11 +1,18 @@
 ---
-title: "StenPaffenSite"
+title: "Sten Paffen"
 ---
 
-Welkom op mijn site. Het gaat niet zo makkelijk allemaal deze rotzooi!
+Welkom op mijn site. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Ik ben student Informatiekunde met een grote passie voor onderwijsvernieuwing. Ik hoop dan later ook binnen het onderwijs te gaan werken, om studeren weer een stukje leuker te maken. Ik hoop dat school een leuke leerplek kan worden, waar iedereen het beste uit zichzelf kan halen, in de plaats van een toetsfabriek.
 
-```{r}
-1 + 1
-```
+Ik werk momenteel op de Universiteit van Amsterdam bij de [TLC](https://tlc.uva.nl/). Ik doe dit om steeds meer over het onderwijs te leren vanuit meer hoeken dan enkel mijn eigen studentperspectief.
+
+# Mijn geschiedenis met onderwijs
+Mijn relatie met het onderwijs is erg complex. Ongelukkig op school een hele boel goede cijfers halen. Dat is wat ik de afgelopen jaren heb gedaan in een stug schoolsysteem, dat gebonden is aan regeltjes van jaren geleden. Een systeem dat niet de flexibiliteit en helaas ook niet de veerkracht heeft om mee te bewegen in deze als maar sneller veranderende maatschappij.
+
+::: {layout-ncol=2}
+![](images/canteenkid.webp)
+
+![](images/examhall.webp)
+:::

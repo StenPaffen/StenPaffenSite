@@ -3,11 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "StenPaffenSite"
+  title: "Sten Paffen"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: Contact.qmd
+        text: Contact
       - about.qmd
 
 format:
